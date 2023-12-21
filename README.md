@@ -1,1 +1,1 @@
-# This is a tutorial for svelte by following the instructions by net ninja
+# This is a tutorial for svelte done by me following the instructions of the lengendary net ninja
